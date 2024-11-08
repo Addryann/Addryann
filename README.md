@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Addryann
 - 👀 I’m interested in learning how to develop  music programs. 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - DM
 - 😄 Pronouns: He/Him
